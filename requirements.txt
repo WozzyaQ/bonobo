@@ -1,0 +1,11 @@
+bonobo==0.6.4
+beautifulsoup4==4.9.0
+requests==2.26.0
+pyspark==3.0.0
+html-text==0.5.2
+pymongo==3.12.0
+fs-s3fs==1.1.1
+pandas>=0.32.2
+pyarrow>=0.15.1
+pyspark-stubs==3.0.0.post2
+python-dotenv==0.19.0
